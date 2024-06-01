@@ -15,7 +15,7 @@ Initial steps included loading the data, removing rows with empty values, and en
 ### Data Exploration
 The exploration phase involved filtering the dataset to focus on specific years and brands of interest. I did this part to get relevant data points.
 
-# the correlation matrix
+### The correlation matrix
 
 ----
 ### Main part(Statistical Methods
