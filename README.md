@@ -5,6 +5,7 @@
 This project involves analyzing a dataset of used cars to determine the relationship between various factors and the price of the cars. The analysis includes data preparation, exploration, and the application of several statistical methods.
 
 My main focus with this projectc was on ANOVA, multi-way ANOVA, regression, and mixed models.
+
 ----
 ### Data Preparation
 The dataset was obtained from a Kaggle repository containing 50,000 data points of used cars. I used the following data set: https://www.kaggle.com/datasets/piumiu/used-cars-database-50000-data-points
@@ -13,6 +14,7 @@ Initial steps included loading the data, removing rows with empty values, and en
 
 ### Data Exploration
 The exploration phase involved filtering the dataset to focus on specific years and brands of interest. I did this part to get relevant data points.
+
 ----
 ### Main part(Statistical Methods
 1. **Two-way ANOVA**:
